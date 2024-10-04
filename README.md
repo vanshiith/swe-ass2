@@ -6,6 +6,6 @@
 
 ![Alt text](gtsrbloss.png)
 
-# Housing: Mean Squared Error on Test Data: 1.4805
+# Housing: Mean Squared Error on Test Data: 1.1591
 
 ![Alt text](housingloss.png)
